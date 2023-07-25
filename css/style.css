@@ -1,0 +1,78 @@
+.btn-outline:hover{
+    color: black;
+}
+
+
+.carousel-caption{
+   
+    bottom: 140px;
+    font-size: 70px;
+}
+.about-container{
+    background-color: #00BDBD;
+
+}
+
+
+.education-container{
+    background-color: #EEEEEE;
+}
+.education{
+    color: blue;
+}
+.education-circle{
+    background-color: #fb857f;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: #2BB3DD;
+    
+}
+
+.project-text{
+    color: black;
+}
+
+
+.protfilio-container{
+    color: #fb857f;
+    background-color: aqua;
+    
+}
+.gallery-container{
+    color: firebrick;
+    background-color: floralwhite;
+}
+
+.contact-container{
+    background-color: #474d5d;
+}
+
+.btn{
+    background-color: #2BB3DD;
+}
+.btn:hover{
+    color: black!important;
+}
+
+.foter-container{
+    background-color: #2BB3DD;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2BB3DD;
+
+}
+.circle:hover{
+    background-color: #474d5d;
+}
